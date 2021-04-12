@@ -1,4 +1,10 @@
 ### Hi there 👋
+This is my portfolio:
+https://proprogrammer2504.github.io/
+I am a true JavaScript Lover
+TS => ♥
+I am currently working on some projects with HTML, CSS and JS
+I will be recreating my webiste with React and Strapi soon!
 
 <!--
 **ProProgrammer2504/ProProgrammer2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
