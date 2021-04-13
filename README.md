@@ -10,7 +10,7 @@
 <br>
 I am a JavaScript Lover and a Front End Developer!
 <br>
-Check out some of my projects in the <Repositories> section.
+Check out some of my projects in the <>Repositories</> section.
 
 <!--
 **ProProgrammer2504/ProProgrammer2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
