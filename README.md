@@ -5,6 +5,8 @@
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=ProProgrammer2504&show_icons=true&theme=algolia" />
     </td>
+    </tr>
+  <tr>
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProProgrammer2504&show_icons=true&theme=algolia" />
     </td>
