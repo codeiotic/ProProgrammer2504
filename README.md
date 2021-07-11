@@ -2,8 +2,9 @@
 ### These are my GitHub Stats:
 <div width="100%"  border="0" cellpadding="0" cellspacing="0">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ProProgrammer2504&show_icons=true&theme=algolia" style="padding:10px;"/>
-  <br>
+  <br />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProProgrammer2504&show_icons=true&theme=algolia" style="padding:10px;"/>
+  <br />
 </div>
 <br>
 I am a JavaScript Lover and a Front End Developer!
